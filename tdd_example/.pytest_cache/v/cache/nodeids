@@ -1,0 +1,13 @@
+[
+  "tests/test_add.py::test_two_plus_two",
+  "tests/test_add.py::test_five_plus_seven",
+  "tests/test_add.py::test_no_parameters",
+  "tests/test_add.py::test_with_three_arguments",
+  "tests/test_add.py::test_with_5_arguments",
+  "tests/test_add.py::test_zero_division",
+  "tests/test_add.py::test_negative_values",
+  "tests/test_add.py::test_floating_point_precision",
+  "tests/test_add.py::test_subtract_two_arguments",
+  "tests/test_add.py::test_multiply_values",
+  "tests/test_add.py::test_divide_arguments"
+]
