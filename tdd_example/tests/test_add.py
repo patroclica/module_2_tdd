@@ -43,6 +43,6 @@ def test_subtract_two_arguments():
 
 def test_multiply_values():
     assert calculator.multiply (3, 12) == 36
-
+# for testing divide there is another test_divide.py
 def test_divide_arguments():
     assert calculator.divide(1, 1) == 1
