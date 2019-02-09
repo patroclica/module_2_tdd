@@ -6,6 +6,9 @@ def add(first_number=0, second_number=0):
 import math
 
 def add(*numbers):
+    """
+    Defining add() numbers
+    """
     total = 0 # initialize a total of 0
     for number in numbers: # Iterate over each param value
         total += number # Add to the total
@@ -18,12 +21,17 @@ def add(*numbers):
     return sum(args)
     """
     return total
-
 def subtract(first_number, second_number):
-        return first_number - second_number
+    """
+    define subtract
+    """
+    return first_number - second_number
 
 def multiply(first_number, second_number):
-        return first_number * second_number
+    """
+    define multiply
+    """
+    return first_number * second_number
 
 def divide(*args):
     """
